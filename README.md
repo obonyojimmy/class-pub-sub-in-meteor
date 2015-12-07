@@ -2,7 +2,7 @@
 ## <a href="https://www.eventedmind.com/classes/pub-sub-in-meteor" target="_blank">Class: Publish Subscribe in Meteor</a>
 
 **Meteor**<br>
-**Core**
+****
 
 In the Meteor PubSub system the server publishes data to subscribing clients. On the server, you'll take a detailed look at the mechanics of publish functions. On the client, you'll see what happens when publish messages come off the wire. 
 
